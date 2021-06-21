@@ -1,0 +1,23 @@
+{
+  "ADMIN_ID": "1",
+  "members": [
+    {
+      "cin": "11097960",
+      "email": "omar.khemakhem@gmail.com",
+      "name": "Khemakhem",
+      "surname": "omar",
+      "birthdate": 850604400000,
+      "cv": "https://www.linkedin.com/in/khemakhem-omar-a62454180/",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "grade": "PHD.",
+      "establishment": "IIT",
+      "id": "1",
+      "type": "TEACHER",
+      "createDate": 1624100518607,
+      "modificationDate": 1624100518607
+    }
+  ],
+  "articles": [],
+  "events": [],
+  "tools": []
+}
